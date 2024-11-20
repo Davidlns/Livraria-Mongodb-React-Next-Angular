@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062805"
+  },
+  "codigo": 1,
+  "codEditora": 1,
+  "titulo": "Harry Potter",
+  "resumo": "Em uma escola de bruxos com muitas aventuras",
+  "autores": [
+    "A. Gimenes champs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062806"
+  },
+  "codigo": 2,
+  "codEditora": 2,
+  "titulo": "Supernatural",
+  "resumo": "Dois irmãos enfrentam seres sobrenaturais",
+  "autores": [
+    "Bill Thompson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062807"
+  },
+  "codigo": 3,
+  "codEditora": 3,
+  "titulo": "Assassins Creed",
+  "resumo": "A ordem dos assassinos lutam para impedir os templarios",
+  "autores": [
+    "Charle Rolmen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062808"
+  },
+  "codigo": 4,
+  "codEditora": 3,
+  "titulo": "Crônicas de Gelo e fogo",
+  "resumo": "Várias grandes casas no reino lutam insansávelmente para conquistar a coroa dos 7 reinos",
+  "autores": [
+    "Franklin Fuzz"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062809"
+  },
+  "codigo": 5,
+  "codEditora": 2,
+  "titulo": "Resident Evil",
+  "resumo": "Uma epidemia transforma a maioria da população em zumbi",
+  "autores": [
+    "Jack Daniels"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280a"
+  },
+  "codigo": 6,
+  "codEditora": 1,
+  "titulo": "Tudo sobre Python",
+  "resumo": "Um livro didático focado na aprendizagem da linguagem de programação python",
+  "autores": [
+    "Lindsey Mark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280b"
+  },
+  "codigo": 7,
+  "codEditora": 2,
+  "titulo": "Além do Universo",
+  "resumo": "Uma aventura pelo multiverso através de uma nave alienígena",
+  "autores": [
+    "Lammer Shawn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280c"
+  },
+  "codigo": 8,
+  "codEditora": 3,
+  "titulo": "Star Wars",
+  "resumo": "Uma gerra intergalática entre o bem e o mal",
+  "autores": [
+    "Jarry Smith"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280d"
+  },
+  "codigo": 9,
+  "codEditora": 2,
+  "titulo": "Uma noite no Musel",
+  "resumo": "Todo o museu ganha vida e o guarda noturno enfrenta esse desafio",
+  "autores": [
+    "Jimetsu Bonsai"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280e"
+  },
+  "codigo": 10,
+  "codEditora": 2,
+  "titulo": "Casa 145",
+  "resumo": "Um drama familiar digno de Oscar",
+  "autores": [
+    "Cerato Kamasuk"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062810"
+  },
+  "codigo": 11,
+  "codEditora": 1,
+  "titulo": "O Baú de davy",
+  "resumo": "Uma história pirata onde todos buscam o conteúdo do baú de um dos vilões mais icónicos",
+  "autores": [
+    "Lindsey Mark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062811"
+  },
+  "codigo": 12,
+  "codEditora": 3,
+  "titulo": "Se eu fosse você",
+  "resumo": "Uma troca de corpos bagunçam a vida de um casal",
+  "autores": [
+    "Nicole Cole"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062812"
+  },
+  "codigo": 13,
+  "codEditora": 2,
+  "titulo": "Só mais um",
+  "resumo": "Uma jovem cansada de tantas decepções amorosas, conhece alguem que nao esperava nada, mas foi um pouco diferente",
+  "autores": [
+    "Gerard Bitsay"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062813"
+  },
+  "codigo": 14,
+  "codEditora": 1,
+  "titulo": "Castlevania",
+  "resumo": "A história do conde Drácula em busca de retomar o poder do reino das trevas",
+  "autores": [
+    "Lammer Shawn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6733fe79ceb2e90fff1257e2"
+  },
+  "codEditora": 1,
+  "titulo": "God Of War",
+  "resumo": "Um semi Deus cheio de raiva busca vingança contra os deuses do Olympo",
+  "autores": [
+    "Jack Daniels"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67349cea72fb66e04651b717"
+  },
+  "codEditora": 1,
+  "titulo": "X-men",
+  "resumo": "Um grupo de mutantes lutando contra o mal",
+  "autores": [
+    "Bill Thompson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6734aef0c34cf973a80ebb1b"
+  },
+  "codEditora": 1,
+  "titulo": "Deus é a resposta",
+  "resumo": "Um atéu que passou por diversos perrengues em sua vida, procura a Deus e acha um sentido na vida",
+  "autores": [
+    "Mario chaves"
+  ]
+}]
